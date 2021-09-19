@@ -1,0 +1,10 @@
+step_count: 1.000000
+test_avg_gen_time: 0.316531
+test_avg_loss: 0.678646
+test_avg_sari_avgaddscore: 0.254641
+test_avg_sari_avgdelscore: 0.611131
+test_avg_sari_avgkeepscore: 0.697939
+test_avg_sari_finalscore: 0.521237
+test_avg_summ_len: 15.952000
+test_loss: 0.678646
+test_sari_avgaddscore: 0.254641
